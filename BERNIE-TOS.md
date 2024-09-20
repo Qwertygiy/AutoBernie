@@ -1,5 +1,5 @@
 layout: page
 title: "AutoBernie Terms of Service"
-permalink: /autobernie/tos
+permalink: /autobernie/tos/
 
 # Test
